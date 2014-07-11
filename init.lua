@@ -9,7 +9,5 @@ minetest.register_craft({
 	output = 'crackedstone:cracked_stone',
 	recipe = {
 		{'default:cobble', 'desert_uses:desert_cobble', 'default:cobble'},
-		{'', '', ''},
-		{'', '', ''},
 	}
 })
