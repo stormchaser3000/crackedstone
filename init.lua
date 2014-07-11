@@ -11,7 +11,7 @@ minetest.register_node("crackedstone:cracked_stone", {
 minetest.register_craft({
 	output = 'crackedstone:cracked_stone',
 	recipe = {
-		{'default:cobble', 'deset_uses:desert_cobble', 'default:cobble'},
+		{'default:cobble', 'desert_uses:desert_cobble', 'default:cobble'},
 		{'', '', ''},
 		{'', '', ''},
 	}
